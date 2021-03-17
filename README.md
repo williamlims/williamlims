@@ -28,7 +28,9 @@
 - Degree in Computing from the Claretiano University Center <br>
  
 <hr>
+
 ### Status
+
 ![YOUR GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamlims&show_icons=true&theme=dracula")
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=williamlims&layout=compact&hide_border=true&langs_count=10">
 
