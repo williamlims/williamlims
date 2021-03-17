@@ -14,7 +14,7 @@
 🌱 I’m currently learning Frameworks, Frameworks, Frameworks ... <br>
 ⚡ Fun fact: I don't live without a computer, music and coffee <br>
 💬 Ask me about how to eat a Mcdonald's without the hands <br>
-📫 How to reach me: Scroll down
+📫 How to reach me: Scroll down <br>
 
 <img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="350" height="224" />
 
