@@ -37,14 +37,20 @@
 <hr>
 
 ### Some More
-🔭 I’m currently working on Personal Projects <br>
-🌱 I’m currently learning Frameworks, Frameworks, Frameworks ... <br>
-⚡ Fun fact: I don't live without a computer, music and coffee <br>
-💬 Ask me about how to eat a Mcdonald's without the hands <br>
-📫 How to reach me: Scroll down <br>
-
-<img  alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" /><br>
-
+<table>
+  <tr>
+    <td>  
+      🔭 I’m currently working on Personal Projects <br>
+      🌱 I’m currently learning Frameworks, Frameworks, Frameworks ... <br>
+      ⚡ Fun fact: I don't live without a computer, music and coffee <br>
+      💬 Ask me about how to eat a Mcdonald's without the hands <br>
+      📫 How to reach me: Scroll down <br>
+    </td>
+    <td>
+      <img  alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" /><br>
+    </td>
+  </tr>
+</table>
 
 ### About Me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/williamlims)](https://github.com/williamlims)
