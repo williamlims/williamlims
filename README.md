@@ -2,8 +2,6 @@
 
 #### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
 
-<hr>
-
 #### Languages and Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
