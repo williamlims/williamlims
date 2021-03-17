@@ -41,7 +41,7 @@
   <tr>
     <td>  
       🔭 I’m currently working on Personal Projects <br>
-      🌱 I’m currently learning Frameworks, Frameworks, Frameworks ... <br>
+      🌱 I’m currently learning Frameworks, Frameworks ... <br>
       ⚡ Fun fact: I don't live without a computer, music and coffee <br>
       💬 Ask me about how to eat a Mcdonald's without the hands <br>
       📫 How to reach me: Scroll down <br>
