@@ -2,9 +2,7 @@
 
 #### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
 
-<br>
-  ---
-<br>
+<hr>
 
 #### Languages and Technologies
 <p align="center">
@@ -20,9 +18,7 @@
   <img src="https://img.shields.io/badge/REACT-1C1C1C?style=for-the-badge&logo=react&logoColor=white" alt="react" /> &nbsp; &nbsp;
 </p>
 
-<br>
-  ---
-<br>
+<hr>
 
 ### Academic
 
@@ -31,8 +27,10 @@
 - Graduated in Analysis and Systems Development at UNIFRAN <br>
 - Degree in Computing from the Claretiano University Center <br>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=williamlims)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamlims)](https://github.com/williamlims/github-readme-stats)
+![YOUR GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamlims&show_icons=true&theme=dracula")
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=williamlims&layout=compact&hide_border=true&langs_count=10">
+
+<hr>
 
 ### Some More
 🔭 I’m currently working on Personal Projects <br>
