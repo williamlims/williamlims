@@ -1,5 +1,7 @@
 ### Hi there, 👋
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=williamlims)
+
 #### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
 
 ### Academic
@@ -16,9 +18,8 @@
 💬 Ask me about how to eat a Mcdonald's without the hands <br>
 📫 How to reach me: Scroll down <br>
 
-<img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="350" height="224" />
+<img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=williamlims)
 
 ### About Me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/williamlims)](https://github.com/williamlims)
