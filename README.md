@@ -22,10 +22,10 @@
 
 ### Academic
 
-- Postgraduate student in Full Stack Web Development at PUC Minas <br>
-- Graduated in Information Systems at UFSCAR <br>
-- Graduated in Analysis and Systems Development at UNIFRAN <br>
-- Degree in Computing from the Claretiano University Center <br>
+- Postgraduate student in Full Stack Web Development from PUC Minas <br>
+- Graduated in Information Systems from UFSCAR <br>
+- Graduated in Analysis and Systems Development from UNIFRAN <br>
+- Degree in Computing from Claretiano University Center <br>
  
 <hr>
 
@@ -37,7 +37,7 @@
 <hr>
 
 ### Some More
-<table>
+<table border="0">
   <tr>
     <td>  
       🔭 I’m currently working on Personal Projects <br>
@@ -47,7 +47,7 @@
       📫 How to reach me: Scroll down <br>
     </td>
     <td>
-      <img  alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" /><br>
+      <img  alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="400" height="256" /><br>
     </td>
   </tr>
 </table>
