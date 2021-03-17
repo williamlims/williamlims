@@ -16,7 +16,7 @@
 💬 Ask me about how to eat a Mcdonald's without the hands <br>
 📫 How to reach me: Scroll down
 
-<img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="450" height="288" />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=williamlims)
 
