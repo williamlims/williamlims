@@ -20,7 +20,7 @@
 💬 Ask me about how to eat a Mcdonald's without the hands <br>
 📫 How to reach me: Scroll down <br>
 
-<img align="left" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" /><br>
+<img  alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" /><br>
 
 
 ### About Me
