@@ -16,9 +16,10 @@
 💬 Ask me about how to eat a Mcdonald's without the hands <br>
 📫 How to reach me: Scroll down
 
-<img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="400" height="256" />
 
-<br><br><br><br><br><br><br><br><br><br><br>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=williamlims)
+
 ### About Me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/williamlims)](https://github.com/williamlims)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-lima-7293b710b/)](https://www.linkedin.com/in/william-lima-7293b710b/)
