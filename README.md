@@ -12,6 +12,7 @@
 - Degree in Computing from the Claretiano University Center <br>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=williamlims)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamlims)](https://github.com/williamlims/github-readme-stats)
 
 ### Some More
 🔭 I’m currently working on Personal Projects <br>
