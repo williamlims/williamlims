@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-##### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
+#### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
 
 ### Academic
 
@@ -9,7 +9,7 @@
 - Graduated in Analysis and Systems Development at UNIFRAN <br>
 - Degree in Computing from the Claretian University Center <br>
 
-
+### Some More
 🔭 I’m currently working on Personal Projects <br>
 🌱 I’m currently learning Frameworks, Frameworks, Frameworks ... <br>
 ⚡ Fun fact: I don't live without a computer, music and coffee <br>
@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ### About Me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/williamlims)](https://github.com/williamlims)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-lima-7293b710b/)](https://www.linkedin.com/in/william-lima-7293b710b/)
