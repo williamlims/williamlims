@@ -1,8 +1,28 @@
 ### Hi there, 👋
 
-
-
 #### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
+
+<br>
+  ---
+<br>
+
+#### Languages and Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/DJANGO-2E8B57?style=for-the-badge&logo=django&logoColor=white" alt="django" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/JAVA-8B0000?style=for-the-badge&logo=java&logoColor=white" alt="java" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/PHP-7B68EE?style=for-the-badge&logo=php&logoColor=white" alt="php" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/LARAVEL-DCDCDC?style=for-the-badge&logo=laravel&logoColor=orange" alt="laravel" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/BOOTSTRAP-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/REACT-1C1C1C?style=for-the-badge&logo=react&logoColor=white" alt="react" /> &nbsp; &nbsp;
+</p>
+
+<br>
+  ---
+<br>
 
 ### Academic
 
