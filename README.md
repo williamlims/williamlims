@@ -7,7 +7,7 @@
 - Postgraduate student in Full Stack Web Development at PUC Minas <br>
 - Graduated in Information Systems at UFSCAR <br>
 - Graduated in Analysis and Systems Development at UNIFRAN <br>
-- Degree in Computing from the Claretian University Center <br>
+- Degree in Computing from the Claretiano University Center <br>
 
 ### Some More
 🔭 I’m currently working on Personal Projects <br>
@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 ### About Me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/williamlims)](https://github.com/williamlims)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-lima-7293b710b/)](https://www.linkedin.com/in/william-lima-7293b710b/)
