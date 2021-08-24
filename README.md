@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/BOOTSTRAP-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/REACT-1C1C1C?style=for-the-badge&logo=react&logoColor=white" alt="react" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/MYSQL-000080?style=for-the-badge&logo=mysql&logoColor=white" alt="react" /> &nbsp; &nbsp; 
 </p>
 
 <hr>
