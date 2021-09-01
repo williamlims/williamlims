@@ -1,6 +1,6 @@
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### My name is William and I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
+#### I'm a Full Stack Developer and Technology Teacher!! I've been programming since 2007 and I've had the opportunity to know many programming languages such as Java, PHP, Python, Javascript and others. I work with the frameworks Django and Laravel.
 
 <hr>
 
