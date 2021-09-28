@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/REDIS-A52A2A?style=for-the-badge&logo=redis&logoColor=white" alt="redis" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/POSTGRESQL-7B68EE?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> &nbsp; &nbsp; 
   <img src="https://img.shields.io/badge/MongoDB-F8F8FF?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/NODEJS-F8F08F0?style=for-the-badge&logo=nodejs&logoColor=black" alt="nodejs" /> &nbsp; &nbsp;
 </p>
 
 <hr>
