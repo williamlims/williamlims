@@ -28,7 +28,7 @@
 ### Academic
 
 - Postgraduate student in Full Stack Web Development from PUC Minas <br>
-- Postgraduate student in UX Design from Claretiano University Center <br>
+- Postgraduated in UX Design from Claretiano University Center <br>
 - Graduated in Information Systems from UFSCAR <br>
 - Graduated in Analysis and Systems Development from UNIFRAN <br>
 - Degree in Computing from Claretiano University Center <br>
