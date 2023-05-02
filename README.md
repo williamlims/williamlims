@@ -27,12 +27,13 @@
 
 ### Academic
 
+- MBA in Data Science and Analytics from USP <br>
 - Postgraduate Degree (Latu Sensu) in Full Stack Web Development from PUC Minas <br>
+- Postgraduate Degree (Latu Sensu) in Teaching For Professional And Technological Education IFES <br>
 - Postgraduate Degree (Latu Sensu) in UX Design from Claretiano University Center <br>
 - Bachelor's Degree in Information Systems from UFSCAR <br>
 - Bachelor's Degree in Analysis and Systems Development from UNIFRAN <br>
 - Licentiate's Degree in Computing from Claretiano University Center <br>
-- Licentiate's Degree in Pedagogy from Claretiano University Center <br>
  
 <hr>
 
